@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfTh4uXIu9tGHlz/df/j/XMbbyJFheNHMLrsC+LRNSpBY0rRdKsIlSdq/AqIxvx/kRQqCBH9ZAFEpJIbsW59OQ==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\RgbSliders\\RgbSliders\\RgbSliders\\RgbSliders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\3.1.0.637273\\xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": []
+}

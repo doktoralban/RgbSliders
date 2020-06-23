@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uyloC2fHIG3B5785V8lAlh4bWeP4QrH44ZU3e2Aa2G6uIUElY6WfpVmLBqx23p/nQOjcjLImRwYKjJFOjM/pQ==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\RgbSliders\\RgbSliders\\RgbSliders.iOS\\RgbSliders.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\3.1.0.637273\\xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": []
+}
